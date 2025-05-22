@@ -3,7 +3,7 @@ checkpoints/
 data/
 
 # images
-images/moto*
+images/*
 
 # models
 *.pth
