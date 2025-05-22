@@ -1,0 +1,7 @@
+# training folders
+checkpoints/
+data/
+
+# images
+images/moto*
+
