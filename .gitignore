@@ -7,3 +7,10 @@ images/*
 
 # models
 *.pth
+
+# ipynb
+.ipynb_checkpoints/
+
+# virtual envs linux
+motorcycle-env/
+.venv/
